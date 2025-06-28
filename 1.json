@@ -1,0 +1,12 @@
+{
+  "name": "TGC2",
+  "description": "第2个TGC的NFT",
+  "image": "https://tse4.mm.bing.net/th/id/OIP.15F92PhtEoeIKgOAAfDqSwAAAA?w=282&h=320&rs=1&pid=ImgDetMain",
+  "external_url": "https://tse4.mm.bing.net/th/id/OIP.15F92PhtEoeIKgOAAfDqSwAAAA?w=282&h=320&rs=1&pid=ImgDetMain",
+  "attributes": [
+    {
+      "trait_type": "test",
+      "value": "1"
+    }
+  ]
+}
