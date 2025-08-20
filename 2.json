@@ -1,8 +1,8 @@
 {
   "name": "TGC3",
   "description": "第3个www.baidu.com",
-  "image": "https://tse4.mm.bing.net/th/id/OIP.15F92PhtEoeIKgOAAfDqSwAAAA?w=282&h=320&rs=1&pid=ImgDetMain",
-  "external_url": "https://tse4.mm.bing.net/th/id/OIP.15F92PhtEoeIKgOAAfDqSwAAAA?w=282&h=320&rs=1&pid=ImgDetMain",
+  "image": "https://pic1.zhimg.com/v2-a58fa2ab84be291418da2652805f8270_b.jpg",
+  "external_url": "www.baidu.com",
   "attributes": [
     {
       "trait_type": "test",
