@@ -1,0 +1,12 @@
+{
+  "name": "TGC1",
+  "description": "第一个TGC的NFT跳转www.baidu.com",
+  "image": "https://pic1.zhimg.com/v2-a58fa2ab84be291418da2652805f8270_b.jpg",
+  "external_url": "www.baidu.com",
+  "attributes": [
+    {
+      "trait_type": "test",
+      "value": "0"
+    }
+  ]
+}
